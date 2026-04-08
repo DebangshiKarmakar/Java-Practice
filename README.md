@@ -6,4 +6,5 @@ Calculator - A simple calculator program for basic arithmetic operations.
 
 Patterns:
 1. Solid Rectangle
+2. Hollow Rectangle
    
