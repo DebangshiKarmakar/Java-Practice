@@ -9,7 +9,7 @@ public class FloydTriangle {
         int n = sc.nextInt();
 
         System.out.print("Enter the starting number with which the triangle begins: ");
-        int number = sc.nextInt(); //starting numver of the triangle
+        int number = sc.nextInt(); //starting number of the triangle
 
         //outer loop
         for(int i=1; i<=n; i++){
