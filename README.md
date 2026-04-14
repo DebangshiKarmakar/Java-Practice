@@ -10,4 +10,5 @@ Patterns:
 3. Half Pyramid
 4. Inverted Half Pyramid
 5. Floyd's Triangle
+6. Butterfly 
    
