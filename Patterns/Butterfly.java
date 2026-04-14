@@ -45,6 +45,7 @@ public class Butterfly {
                 System.out.print("*");
             }
             System.out.println();
+            sc.close();
 
 
         }
