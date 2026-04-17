@@ -11,4 +11,8 @@ Patterns:
 4. Inverted Half Pyramid
 5. Floyd's Triangle
 6. Butterfly 
-   
+
+DSA
+  Arrays
+  1. Takes names as input from user and prints them on screen
+  2. Finds maximum and minimum number in an array of integers
