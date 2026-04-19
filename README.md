@@ -18,3 +18,6 @@ DSA
   2. Finds maximum and minimum number in an array of integers
   3. Checks if array is in ascending or descending order
   4. Transpose of a matrix
+
+  Strings
+  1. Taking an array of Strings and finding the cumulative length
