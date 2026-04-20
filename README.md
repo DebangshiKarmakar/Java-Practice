@@ -22,3 +22,4 @@ DSA
   Strings
   1. Taking an array of Strings and finding the cumulative length
   2. Taking a string input and replacing e with i.
+  3. Taking an email id as input and removing the @ part and creating an user id from the email.
