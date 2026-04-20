@@ -21,3 +21,4 @@ DSA
 
   Strings
   1. Taking an array of Strings and finding the cumulative length
+  2. Taking a string input and replacing e with i.
