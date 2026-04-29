@@ -10,7 +10,13 @@ Patterns:
 3. Half Pyramid
 4. Inverted Half Pyramid
 5. Floyd's Triangle
-6. Butterfly 
+6. Butterfly
+
+Bit Manipulation
+1. Get Bit
+2. Set Bit
+3. Clear Bit
+4. Update Bit
 
 DSA
   Arrays
