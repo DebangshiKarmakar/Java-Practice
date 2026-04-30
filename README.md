@@ -18,6 +18,9 @@ Bit Manipulation
 3. Clear Bit
 4. Update Bit
 
+Sorting Algorithms
+1. Bubble Sort
+   
 DSA
   Arrays
   1. Takes names as input from user and prints them on screen
@@ -32,3 +35,4 @@ DSA
   3. Taking an email id as input and removing the @ part and creating an user id from the email.
   4. Taking a string input and reversing the string
   5. Check if a string is Pallindrome.
+
