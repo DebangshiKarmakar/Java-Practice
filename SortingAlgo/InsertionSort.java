@@ -10,7 +10,7 @@ public class InsertionSort {
     public static void main(String args[]){
         int arr[] ={7,8,3,1,2};
 
-        //time complexity: 
+        //time complexity: O(n^2)
         //insertion sort
         for(int i=1; i<arr.length;i++){ //taking i=0 as sorted
             int current = arr[i];
