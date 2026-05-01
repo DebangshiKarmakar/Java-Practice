@@ -2,39 +2,15 @@
 My Java learning journey - from basic programs to DSA and algorithms
 
 Currently included:
-Calculator - A simple calculator program for basic arithmetic operations.
+1.Calculator - A simple calculator program for basic arithmetic operations.
 
-Patterns:
-1. Solid Rectangle
-2. Hollow Rectangle
-3. Half Pyramid
-4. Inverted Half Pyramid
-5. Floyd's Triangle
-6. Butterfly
+2.Patterns
 
-Bit Manipulation
-1. Get Bit
-2. Set Bit
-3. Clear Bit
-4. Update Bit
+3.Bit Manipulation
 
-Sorting Algorithms
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-   
-DSA
+4.Sorting Algorithms
+
+5.DSA
   Arrays
-  1. Takes names as input from user and prints them on screen
-  2. Finds maximum and minimum number in an array of integers
-  3. Checks if array is in ascending or descending order
-  4. Transpose of a matrix
-  5. Sum and Average
-
   Strings
-  1. Taking an array of Strings and finding the cumulative length
-  2. Taking a string input and replacing e with i.
-  3. Taking an email id as input and removing the @ part and creating an user id from the email.
-  4. Taking a string input and reversing the string
-  5. Check if a string is Pallindrome.
-
+  
