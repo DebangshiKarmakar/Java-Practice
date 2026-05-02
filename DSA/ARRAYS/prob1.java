@@ -1,5 +1,4 @@
 package DSA.ARRAYS;
-
 import java.util.Scanner;
 
 public class prob1 {
